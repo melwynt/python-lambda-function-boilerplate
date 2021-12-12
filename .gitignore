@@ -1,0 +1,11 @@
+# dependencies
+/python
+
+# virtual environment
+/venv
+
+# misc
+.DS_Store
+
+# zip files
+*.zip
